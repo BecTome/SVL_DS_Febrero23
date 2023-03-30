@@ -1,0 +1,10 @@
+- Libreria de Javascript con APIs para multiples lenguajes
+- Ventajas:
+	-  Rápido y sencillo
+	- Tiene plotly.express para low code plots
+	- Extremadamente customizable
+	- Gráficos interactivos por defecto
+- Métodos de creacion:
+	- plotly.express (px)
+	- plotly.graph objects (go) para más customizacion
+	- plotly.figure_factory  (ff) para figuras específicas y más avanzadas
