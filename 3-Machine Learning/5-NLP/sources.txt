@@ -1,0 +1,8 @@
+Vídeos
+
+https://www.youtube.com/watch?v=Tg1MjMIVArc&ab_channel=DotCSV
+https://www.youtube.com/watch?v=RkYuH_K7Fx4&ab_channel=DotCSV
+
+Blog NLP Vectorizacion
+
+https://towardsdatascience.com/introduction-to-nlp-part-1-preprocessing-text-in-python-8f007d44ca96
